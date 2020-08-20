@@ -1,3 +1,5 @@
+Enter value for INPUTARRAY[0][0]:0
+Enter value for INPUTARRAY[0][1]:5
 Enter value for INPUTARRAY[0][2]:0
 Enter value for INPUTARRAY[0][3]:7
 Enter value for INPUTARRAY[0][4]:0
